@@ -1,13 +1,9 @@
-# Welcome to [Development Data Partnership](https://datapartnership.org)
+# Welcome to the [Development Data Partnership](https://datapartnership.org)
 
 [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/datapartnership)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevDataPship)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://devdatapship.slack.com/join/signup)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/development-data-partnership/)
-
-<p align="center">
-  <img width="250" height="250" src="https://raw.githubusercontent.com/datapartnership/.github/main/images/logo.png">
-</p>
 
 ## About
 
@@ -28,3 +24,7 @@ Partnership activities are guided by a Board, with representation from each inte
 ## [Development Data Partnership Documentation](https://docs.datapartnership.org)
 
 > Data documentation repositories curated for each Development Partner, based on their signed license agreements.
+
+<p align="center">
+  <img width="100" height="100" src="https://raw.githubusercontent.com/datapartnership/.github/main/images/logo.png">
+</p>
