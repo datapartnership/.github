@@ -1,4 +1,4 @@
-# Welcome to Development Data Partnership 
+# Welcome to [Development Data Partnership](https://datapartnership.org)
 
 [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/datapartnership)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevDataPship)
@@ -6,10 +6,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/development-data-partnership/)
 
 <p align="center">
-  <img width="250" height="250" src="https://raw.githubusercontent.com/datapartnership/welcome/master/images/logo.png">
+  <img width="250" height="250" src="https://raw.githubusercontent.com/datapartnership/.github/main/images/logo.png">
 </p>
 
-## About 
+## About
+
 The Development Data Partnership is a collaboration between international organizations and technology companies, facilitating the efficient and responsible use of third-party data in international development.
 
 The Partnership’s success is predicated on our standardized legal, IT, and governance procedures, as well as our vibrant data science community.
