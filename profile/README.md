@@ -20,6 +20,7 @@
 At its core, the [Development Data Partnership](https://datapartnership.org)’s most valuable component is the community we bring together, connecting talent and expertise from international organizations, creating spaces for discovering novel approaches and methodologies and knowledge sharing, and facilitating secure and responsable access, experimentation and use of alternative and private intent data in international development.
 
 - [Projects & News](https://datapartnership.org/updates)
+- [Repositories](https://github.com/search?q=topic%3Adata-partnership+fork%3Atrue)
 - [Development Data Partnership Portal](https://portal.datapartnership.org)
 - [Development Data Partnership Documentation](https://docs.datapartnership.org)
 
