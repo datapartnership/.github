@@ -22,6 +22,7 @@ At its core, the [Development Data Partnership](https://datapartnership.org)’s
 ***✨ Not yet a contributor?*** [Become a member](https://datapartnership.org/join) and join the [**Partnership** community on GitHub](https://github.com/datapartnership)
 
 - [Projects & News](https://datapartnership.org/updates)
+- [Discussions](https://github.com/orgs/datapartnership/discussions)
 - [Public Data Goods](https://github.com/search?q=topic%3Adata-partnership+fork%3Atrue)
 - [Development Data Partnership Portal](https://portal.datapartnership.org)
 - [Development Data Partnership Documentation](https://docs.datapartnership.org)
