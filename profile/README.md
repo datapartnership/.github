@@ -7,8 +7,6 @@
 <h1 align="center">
   <a href="https://github.com/datapartnership" target="_blank"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://twitter.com/DevDataPship" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
 <a href="https://devdatapship.slack.com/join/signup" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/company/development-data-partnership" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
