@@ -1,4 +1,4 @@
-# Welcome to the [Development Data Partnership](https://datapartnership.org) on GitHub
+# [Development Data Partnership](https://datapartnership.org) on GitHub
 
 <p align="center">
   <img src="images/development-data-partnership-banner.gif" />
@@ -25,4 +25,8 @@ At its core, the [Development Data Partnership](https://datapartnership.org)’s
 - [Development Data Partnership Portal](https://portal.datapartnership.org)
 - [Development Data Partnership Documentation](https://docs.datapartnership.org)
 
-Development Data Partnership projects are encouraged to adopt the [Template](https://datapartnership.org/template/README.html) which by default uses [CODE OF CONDUCT](CODE_OF_CONDUCT.md) and the [World Bank Master Community License Agreement](LICENSE.md)
+Development Data Partnership projects are encouraged to adopt the [Template](https://worldbank.github.io/template) to bring consistency in project structure, coding standards, and best practices. 
+
+## License
+
+Unless otherwise specified, all code and content in our repositories are licensed under the [Mozilla Public License](https://www.mozilla.org/en-US/MPL) license.
