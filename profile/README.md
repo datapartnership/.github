@@ -13,19 +13,28 @@
 </a>
 </h1>
 
-### Get Involved
+## Get Involved
 
 At its core, the [Development Data Partnership](https://datapartnership.org)’s most valuable component is the community we bring together, connecting talent and expertise from international organizations, creating spaces for discovering novel approaches and methodologies and knowledge sharing, and facilitating secure and responsable access, experimentation and use of alternative and private intent data in international development.
 
 ***✨ Not yet a contributor?*** [Become a member](https://datapartnership.org/join) and join the [**Partnership** community on GitHub](https://github.com/datapartnership)
 
 - [Projects & News](https://datapartnership.org/updates)
-- [Discussions](https://github.com/orgs/datapartnership/discussions)
-- [Public Data Goods](https://github.com/search?q=topic%3Adata-partnership+fork%3Atrue)
 - [Development Data Partnership Portal](https://portal.datapartnership.org)
 - [Development Data Partnership Documentation](https://docs.datapartnership.org)
 
 Development Data Partnership projects are encouraged to adopt the [Template](https://worldbank.github.io/template) to bring consistency in project structure, coding standards, and best practices. 
+
+## Discussions 
+
+We welcome [discussions](https://github.com/orgs/datapartnership/discussions) related to data, development economics, and other relevant topics. Feel free to initiate discussions, ask questions, or share insights through the following channels (make sure you have [joined the community](https://datapartnership.org/join)):
+
+- [📣 Announcements](https://github.com/orgs/datapartnership/discussions/categories/announcements): Stay tuned with latest announcements
+- [💬 General](https://github.com/orgs/datapartnership/discussions/categories/general): Chat about anything and everything here
+- [💡 Ideas](https://github.com/orgs/datapartnership/discussions/categories/ideas): Share ideas for new features and projects
+- [🙏 Q&A](https://github.com/orgs/datapartnership/discussions/categories/q-a): Ask the community for help
+
+If you have general questions or want to engage in broader conversations, please use the [🙏 Q&A](https://github.com/orgs/datapartnership/discussions/categories/q-a) section. Let's collaborate to drive positive change and contribute to the World Bank's mission!
 
 ## License
 
