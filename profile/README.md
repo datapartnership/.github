@@ -15,7 +15,7 @@
 
 ## Get Involved
 
-At its core, the [Development Data Partnership](https://datapartnership.org)’s most valuable component is the community we bring together, connecting talent and expertise from international organizations, creating spaces for discovering novel approaches and methodologies and knowledge sharing, and facilitating secure and responsable access, experimentation and use of alternative and private intent data in international development.
+At its core, the [Development Data Partnership](https://datapartnership.org)’s most valuable component is the community we bring together, connecting talent and expertise from international organizations, creating spaces for discovering novel approaches and methodologies and knowledge sharing, and facilitating secure and responsable access, experimentation and use of alternative and private intent data in global development.
 
 ***✨ Not yet a contributor?*** [Become a member](https://datapartnership.org/join) and join the [**Partnership** community on GitHub](https://github.com/datapartnership)
 
