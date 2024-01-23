@@ -41,7 +41,7 @@ If you have general questions or want to engage in broader conversations, please
 In this section, we organize the development efforts under the Partnership. Whether you're a contributor, or simply curious about our projects and roadmap, this is the place to explore ongoing initiatives, feature development, and key milestones. We encourage you to dive in, explore the exciting developments, and join us on this journey to make our project even more robust and innovative. Your feedback and contributions are invaluable as we work together to shape the future of our project. 
 
 - [Public Projects](https://github.com/orgs/datapartnership/repositories?type=public)
-- [Private Projects](https://github.com/orgs/datapartnership/repositories?type=private)
+- [Private Projects](https://github.com/orgs/datapartnership/repositories?type=private) (available to [members](https://datapartnership.org/join) only)
   
 ## License
 
