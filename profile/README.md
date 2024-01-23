@@ -36,6 +36,12 @@ We welcome [discussions](https://github.com/orgs/datapartnership/discussions) re
 
 If you have general questions or want to engage in broader conversations, please use the [🙏 Q&A](https://github.com/orgs/datapartnership/discussions/categories/q-a) section. Let's collaborate to drive positive change and contribute to the World Bank's mission!
 
+## Documentation
+
+The Development Data Partnership Documentation is your go-to resource for understanding, using, and contributing to available Data Partners opportunities. 
+
+- [📚 Documentation](https://github.com/orgs/datapartnership/repositories?type=private&q=docs)
+
 ## Repositories
 
 In this section, we organize the development efforts under the Partnership. Whether you're a contributor, or simply curious about our projects and roadmap, this is the place to explore ongoing initiatives, feature development, and key milestones. We encourage you to dive in, explore the exciting developments, and join us on this journey to make our project even more robust and innovative. Your feedback and contributions are invaluable as we work together to shape the future of our project. 
