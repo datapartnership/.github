@@ -38,9 +38,10 @@ If you have general questions or want to engage in broader conversations, please
 
 ## Documentation
 
-The [Development Data Partnership Documentation](https://docs.datapartnership.org) is your go-to resource for understanding, using, and contributing to available Data Partners opportunities. 
+The [Development Data Partnership Documentation](https://docs.datapartnership.org) is your go-to resource for understanding, finding, acessing, using, and contributing to available Data Partners opportunities. 
 
-- [📚 Documentation](https://github.com/orgs/datapartnership/repositories?type=private&q=docs) (on GitHub)
+- [📕 Documentation via SSO]([https://github.com/orgs/datapartnership/repositories?type=private&q=docs](https://docs.datapartnership.org)) (available to Development Partners only)
+- [📗 Documentation on GitHub](https://github.com/orgs/datapartnership/repositories?type=private&q=docs)
 
 ## Repositories
 
