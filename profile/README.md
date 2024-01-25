@@ -34,7 +34,7 @@ We welcome [discussions](https://github.com/orgs/datapartnership/discussions) re
 - [💡 Ideas](https://github.com/orgs/datapartnership/discussions/categories/ideas): Share ideas for new features and projects
 - [🙏 Q&A](https://github.com/orgs/datapartnership/discussions/categories/q-a): Ask the community for help
 
-If you have general questions or want to engage in broader conversations, please use the [🙏 Q&A](https://github.com/orgs/datapartnership/discussions/categories/q-a) section. Let's collaborate to drive positive change.
+If you have general questions or want to engage in broader conversations, please use the [🙏 Q&A](https://github.com/orgs/datapartnership/discussions/categories/q-a) section. 
 
 ## Documentation
 
