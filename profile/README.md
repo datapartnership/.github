@@ -1,14 +1,5 @@
 # Welcome to [Development Data Partnership](https://datapartnership.org) on GitHub!
 
-<h1 align="center">
-  <a href="https://github.com/datapartnership" target="_blank"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://devdatapship.slack.com/join/signup" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/company/development-data-partnership" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</h1>
-
 ## Get Involved
 
 At the heart of the [Development Data Partnership](https://datapartnership.org)'s mission lies our most valuable asset: the **community** we cultivate. We connect professionals and experts from international organizations, foster environments for innovative approaches and methodologies, and promote knowledge sharing. Additionally, we facilitate secure and responsible access to, experimentation with, and utilization of alternative and private intent data for global development purposes.
