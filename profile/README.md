@@ -25,8 +25,8 @@ If you have general questions or want to engage in broader conversations, please
 
 The [Development Data Partnership Documentation](https://docs.datapartnership.org) is your go-to resource for understanding, finding, accessing, using, and contributing to available Data Partners opportunities. The [Documentation](https://docs.datapartnership.org) is available either as a website through Single Sign-On (SSO) with the World Bank or as source through GitHub to all eligible Development Partners. To [become a member](https://datapartnership.org/join) of [**Partnership** community on GitHub](https://github.com/datapartnership), please [sign up](https://datapartnership.org/join).
 
-- [📕 Documentation through Single Sign-On (SSO)](https://docs.datapartnership.org) 
-- [📗 Documentation through GitHub](https://github.com/orgs/datapartnership/repositories?type=private&q=topic%3Adocs)
+- [📕 Documentation](https://docs.datapartnership.org) 
+- [📗 Documentation on GitHub](https://github.com/orgs/datapartnership/repositories?type=private&q=topic%3Adocs)
 
 ## Repositories
 
