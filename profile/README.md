@@ -1,4 +1,4 @@
-# Welcome to [Development Data Partnership](https://datapartnership.org) on GitHub!
+# Welcome to the [Development Data Partnership](https://datapartnership.org) on GitHub!
 
 ## Get Involved
 
