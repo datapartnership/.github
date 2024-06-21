@@ -2,7 +2,7 @@
 
 ## Get Involved
 
-The [Development Data Partnership](https://datapartnership.org) thrives because of our **community**. We connect professionals and experts from international organizations, fostering innovative approaches and methodologies, and promoting knowledge sharing. We also ensure secure and responsible access to alternative and private intent data for global development purposes.
+The [Development Data Partnership](https://datapartnership.org) thrives because of our **community**. We connect professionals and experts from international organizations and companies, fostering innovative approaches and methodologies, and promoting knowledge sharing. We also ensure secure and responsible access to alternative and private intent data for global development purposes.
 
 ***✨ Not yet a contributor?*** [Become a member](https://datapartnership.org/join) and join the [**Partnership** community on GitHub](https://github.com/datapartnership)
 
