@@ -2,7 +2,7 @@
 
 ## Get Involved
 
-At the heart of the [Development Data Partnership](https://datapartnership.org)'s mission lies our most valuable asset: the **community** we cultivate. We connect professionals and experts from international organizations, foster environments for innovative approaches and methodologies, and promote knowledge sharing. Additionally, we facilitate secure and responsible access to, experimentation with, and utilization of alternative and private intent data for global development purposes.
+At the heart of the [Development Data Partnership](https://datapartnership.org) thrives because of our **community**. We connect professionals and experts from international organizations, fostering innovative approaches and methodologies, and promoting knowledge sharing. We also ensure secure and responsible access to alternative and private intent data for global development purposes.
 
 ***✨ Not yet a contributor?*** [Become a member](https://datapartnership.org/join) and join the [**Partnership** community on GitHub](https://github.com/datapartnership)
 
@@ -12,25 +12,25 @@ At the heart of the [Development Data Partnership](https://datapartnership.org)'
 
 ## Discussions
 
-We welcome [discussions](https://github.com/orgs/datapartnership/discussions) related to data, development economics, and other relevant topics. Feel free to initiate discussions, ask questions, or share insights through the following channels (make sure you have [joined the community](https://datapartnership.org/join)):
+We welcome [discussions](https://github.com/orgs/datapartnership/discussions) on data, development economics, and other relevant topics. Feel free to start discussions, ask questions, or share insights after [joining the community](https://datapartnership.org/join)).
 
-- [📣 Announcements](https://github.com/orgs/datapartnership/discussions/categories/announcements): Stay tuned with latest announcements
-- [💬 General](https://github.com/orgs/datapartnership/discussions/categories/general): Chat about anything and everything here
-- [💡 Ideas](https://github.com/orgs/datapartnership/discussions/categories/ideas): Share ideas for new features and projects
-- [🙏 Q&A](https://github.com/orgs/datapartnership/discussions/categories/q-a): Ask the community for help
+- [📣 Announcements](https://github.com/orgs/datapartnership/discussions/categories/announcements): Stay updated with the latest announcements.
+- [💬 General](https://github.com/orgs/datapartnership/discussions/categories/general): Chat about anything and everything.
+- [💡 Ideas](https://github.com/orgs/datapartnership/discussions/categories/ideas): Share ideas for new features and projects.
+- [🙏 Q&A](https://github.com/orgs/datapartnership/discussions/categories/q-a): Ask the community for help.
 
-If you have general questions or want to engage in broader conversations, please use the [🙏 Q&A](https://github.com/orgs/datapartnership/discussions/categories/q-a) section.
+For general questions or broader conversations, use the [🙏 Q&A](https://github.com/orgs/datapartnership/discussions/categories/q-a) section.
 
 ## Documentation
 
-The [Development Data Partnership Documentation](https://docs.datapartnership.org) is your go-to resource for understanding, finding, accessing, using, and contributing to available Data Partners opportunities. The [Documentation](https://docs.datapartnership.org) is available either as a website through Single Sign-On (SSO) with the World Bank or as source through GitHub to all eligible Development Partners. To [become a member](https://datapartnership.org/join) of [**Partnership** community on GitHub](https://github.com/datapartnership), please [sign up](https://datapartnership.org/join).
+The [Development Data Partnership Documentation](https://docs.datapartnership.org) is your go-to resource for understanding, finding, accessing, using, and contributing to available Data Partners opportunities. The [Documentation](https://docs.datapartnership.org) is available either as a website through Single Sign-On (SSO) or through GitHub for eligible Development Partners. To [join the Partnership community]([https://github.com/datapartnership](https://datapartnership.org/join)), please [sign up](https://datapartnership.org/join).
 
 - [📕 Documentation](https://docs.datapartnership.org) 
 - [📗 Documentation on GitHub](https://github.com/orgs/datapartnership/repositories?type=private&q=topic%3Adocs)
 
 ## Repositories
 
-In this section, we organize the development efforts under the Partnership. Whether you're a contributor, or simply curious about our projects and roadmap, this is the place to explore ongoing initiatives, feature development, and key milestones. We encourage you to dive in, explore the exciting developments, and join us on this journey to make our project even more robust and innovative. Your feedback and contributions are invaluable as we work together to shape the future of our project. 
+Explore the development efforts under the Partnership repositories. Whether you're a contributor or curious about our projects and roadmap, this is the place to discover ongoing initiatives, feature developments, and key milestones. Dive in, explore, and join us in making our project more robust and innovative. Your feedback and contributions are invaluable.
 
 - [Public Repositories](https://github.com/search?q=topic%3Adatapartnership+&type=repositories)
 - [Private Repositories](https://github.com/orgs/datapartnership/repositories?type=private) (available to [members](https://datapartnership.org/join) only)
