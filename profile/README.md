@@ -23,7 +23,7 @@ For general questions or broader conversations, use the [🙏 Q&A](https://githu
 
 ## Documentation
 
-The [Development Data Partnership Documentation](https://docs.datapartnership.org) is your primary resource for finding, accessing, using, and contributing to data from our [Data Partners](https://datapartnership.org/). Curated by the [Partnership](https://github.com/orgs/datapartnership/teams/maintainers), the [Documentation]((https://docs.datapartnership.org) ) is a collaborative effort, continuously updated with metadata, sample data, examples, notes, and more from [Data Partners](https://github.com/orgs/datapartnership/teams/data-partners/teams) and project teams. 
+The [Development Data Partnership Documentation](https://docs.datapartnership.org) is your primary resource for finding, accessing, using, and contributing to data from our [Data Partners](https://datapartnership.org/). Curated by the [Partnership](https://github.com/orgs/datapartnership/teams/maintainers) team, the [Documentation]((https://docs.datapartnership.org) ) is a collaborative effort, continuously updated with metadata, sample data, examples, notes, and more from [Data Partners](https://github.com/orgs/datapartnership/teams/data-partners/teams) and project teams. 
 
 You can access the [Documentation](https://docs.datapartnership.org) through Single Sign-On (SSO) or on GitHub if you are an eligible Development Partner. To [join the Partnership community on GitHub]([https://github.com/datapartnership](https://datapartnership.org/join)), please [sign up](https://datapartnership.org/join).
 
