@@ -12,7 +12,7 @@ The [Development Data Partnership](https://datapartnership.org) thrives because 
 
 ## Discussions
 
-We welcome [discussions](https://github.com/orgs/datapartnership/discussions) on data, development economics, and other relevant topics. Feel free to start discussions, ask questions, or share insights after [joining the community](https://datapartnership.org/join)).
+We welcome [discussions](https://github.com/orgs/datapartnership/discussions) on data, development economics, and other relevant topics. Feel free to start discussions, ask questions, or share insights after [joining the community](https://datapartnership.org/join).
 
 - [📣 Announcements](https://github.com/orgs/datapartnership/discussions/categories/announcements): Stay updated with the latest announcements.
 - [💬 General](https://github.com/orgs/datapartnership/discussions/categories/general): Chat about anything and everything.
@@ -23,7 +23,7 @@ For general questions or broader conversations, use the [🙏 Q&A](https://githu
 
 ## Documentation
 
-The [Development Data Partnership Documentation](https://docs.datapartnership.org) is your primary resource for finding, accessing, using, and contributing to data from our [Data Partners](https://datapartnership.org/). Curated by the [Partnership]([https://datapartnership.team](https://github.com/orgs/datapartnership/teams/maintainers), the [Documentation]((https://docs.datapartnership.org) ) is a collaborative effort, continuously updated with metadata, sample data, examples, notes, and more from [Data Partners](https://github.com/orgs/datapartnership/teams/data-partners/teams) and project teams. 
+The [Development Data Partnership Documentation](https://docs.datapartnership.org) is your primary resource for finding, accessing, using, and contributing to data from our [Data Partners](https://datapartnership.org/). Curated by the [Partnership](https://github.com/orgs/datapartnership/teams/maintainers), the [Documentation]((https://docs.datapartnership.org) ) is a collaborative effort, continuously updated with metadata, sample data, examples, notes, and more from [Data Partners](https://github.com/orgs/datapartnership/teams/data-partners/teams) and project teams. 
 
 You can access the [Documentation](https://docs.datapartnership.org) through Single Sign-On (SSO) or on GitHub if you are an eligible Development Partner. To [join the Partnership community on GitHub]([https://github.com/datapartnership](https://datapartnership.org/join)), please [sign up](https://datapartnership.org/join).
 
