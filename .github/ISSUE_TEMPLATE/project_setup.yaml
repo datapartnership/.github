@@ -40,7 +40,7 @@ body:
   id: proposal
   attributes:
     label: Link to Proposal and Work Plan Shared with Client
-    placeholder: Should be in the /documents directory and/or uploaded to issue.
+    placeholder: In /documents directory and/or uploaded to Project Assignment field.
 - type: textarea
   id: assignment-summary
   attributes:
