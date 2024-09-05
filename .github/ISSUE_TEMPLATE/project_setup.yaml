@@ -1,6 +1,6 @@
 name: Assignment Overview
 description: Starting point for new Data Lab projects
-title: "[COUNTRY or REGION] | [PROJECT]"
+title: "OVERVIEW | [Country or REGION] - [Project]"
 labels: data lab assignment
 body:
 - type: markdown
