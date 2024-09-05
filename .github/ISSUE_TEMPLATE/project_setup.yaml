@@ -10,8 +10,8 @@ body:
 - type: input
   id: contact
   attributes:
-    label: Client Contact Email(s)
-    placeholder: ex. email@example.com
+    label: Client Contact Name(s)
+    placeholder: ex. Sally Smith, Han Lee
   validations:
     required: false
 - type: input
