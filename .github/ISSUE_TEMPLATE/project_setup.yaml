@@ -36,14 +36,9 @@ body:
   id: web-book
   attributes:
     label: Project Web Book URL
-- type: input
-  id: proposal
-  attributes:
-    label: Link to Proposal and Work Plan Shared with Client
-    placeholder: In /documents directory and/or uploaded to Project Assignment field.
 - type: textarea
   id: assignment-summary
   attributes:
     label: Project Assignment
-    description: Please provide a summary of the project and assignment.
+    description: Please provide a summary of the project and assignment and, when available, upload work plan shared with client. 
     
