@@ -41,12 +41,3 @@ body:
   attributes:
     label: Project Assignment
     placeholder: Please provide a summary of the project and assignment and, when available, upload work plan shared with client. 
-- type: markdown
-  attributes:
-    value: |
-      ### Create Task Checklist for Project Set Up (see task list option in the issue formatting bar) |
-      The issue is completed when we: 
-        - Set up repo (with WB template and repo naming convention "country-pillar", e.g., "egypt-prosperity")
-        - Complete readme, toc, and web book set up
-        - Complete project staffing and inform team of charge code and billable days
-        - Set up check-in meeting reminders 
