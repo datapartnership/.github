@@ -11,7 +11,7 @@ body:
   id: contact
   attributes:
     label: Client Contact Name(s) and Unit(s)
-    placeholder: ex. Sally Smith, Han Lee
+    placeholder: ex. Sally Smith, DECDG (Development Economics Data Group)
   validations:
     required: false
 - type: input
